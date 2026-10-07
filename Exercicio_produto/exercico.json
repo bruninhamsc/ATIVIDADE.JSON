@@ -1,0 +1,8 @@
+{
+    "produto": {
+        "nome": "Dagger Heel",
+        "preco": 1290.00,
+        "quantidade": 1000,
+        "disponível": true
+    }
+}
