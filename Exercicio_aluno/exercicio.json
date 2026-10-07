@@ -1,7 +1,7 @@
 {
     "aluno": {
         "nome": "Brunna",
-        "idade": 16,
+        "idade": null,
         "notas": [90.0, 60.0, 50.0],
         "aprovado": true
     }
